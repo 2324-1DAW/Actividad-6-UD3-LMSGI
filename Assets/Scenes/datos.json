@@ -1,0 +1,28 @@
+{
+    "personajes": [
+        {
+            "nombre": "Aventurero",
+            "nivel" : 8,
+            "clase": "Mago"
+        
+        }
+    ],
+
+    "personajes": [
+        {
+            "nombre": "Explorador",
+            "nivel" : 3,
+            "clase": "Correcaminos"
+        
+        }
+    ],
+    
+    "personajes": [
+        {
+            "nombre": "Luchador",
+            "nivel" : 9,
+            "clase": "Guerrero"
+        
+        }
+    ]
+}
